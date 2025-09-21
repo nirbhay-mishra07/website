@@ -34,7 +34,7 @@ Concept: A perfect blend of supercar dynamics and everyday luxury.
   padding: 0;
   margin:40px;
   width: 300px;
-  height: 250px;
+  height: 300px;
   color : #093FB4
   }
 #second {
@@ -43,7 +43,7 @@ Concept: A perfect blend of supercar dynamics and everyday luxury.
     padding: 0px;
     margin-left: +375px;
     width: 300px;
-    height: 380px;
+    height: 350px;
 
 }
 #third {
