@@ -43,7 +43,7 @@ Concept: A perfect blend of supercar dynamics and everyday luxury.
     padding: 0px;
     margin-left: +375px;
     width: 300px;
-    height: 350px;
+    height: 380px;
 
 }
 #third {
